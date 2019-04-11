@@ -173,13 +173,13 @@
 .camera_caption h3 {
 	font-size: 60px;
 	line-height: 70px;
-	color: #fff;
+	color: rgb(31, 27, 27);
 	margin-bottom: 25px;
 	text-align: center;
 }
 .camera_caption p {
 	font-size: 36px;
-	color: #fff;
+	color: rgb(31, 27, 27);
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	margin-top: 5%;
