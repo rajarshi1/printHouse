@@ -54,18 +54,18 @@ h5 a:hover {
 										HEADER styles
 =========================================================*/
 #header {
-  padding: 20px 0;
+  padding: 10px 0;
   background: #2cd3d3;
 }
 #header h1 {
   float: left;
-  padding-left: 40px;
-  background: url(../images/logo.png) 0 15px no-repeat;
+  padding-left: 70px;
+  background: url(../images/LOGO.png) 0px -10px no-repeat;
   color: #ffffff;
 }
 #header h1 a {
-  font: 700 44px/44px 'Open Sans', sans-serif;
-  color: #ffffff;
+  font: 700 44px/44px 'AvantGarde-Demi', Helvetica;
+  color: #fdffee;
 }
 #header h1 span {
   display: block;
@@ -222,10 +222,10 @@ h5 a:hover {
 /* Stuck menu styles
 ========================================================*/
 .isStuck {
-  background: #126ca0;
+  background: #2cd3d3;
   z-index: 9;
-  padding: 0;
-  border-bottom: 1px solid #126ca0;
+  padding: 10px;
+  border-bottom: 1px solid #2cd3d3;
 }
 .isStuck nav {
   margin-top: 17px !important;
